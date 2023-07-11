@@ -27,7 +27,7 @@ $ sudo apt update
 ```
 Then you can now clone this GIT repo and install the DEB package with this 'apt' command:
 ```
-$ git clone
+$ git clone https://github.com/azalinux/realvnc-server-aarch64-kali.git
 $ cd realvnc-server-aarch64-kali
 $ sudo apt -f install ./VNC-Server-7.5.1-Linux-ARM64.deb
 ```
