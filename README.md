@@ -32,7 +32,7 @@ $ cd realvnc-server-aarch64-kali
 $ sudo apt -f install ./VNC-Server-7.5.1-Linux-ARM64.deb
 ```
 
-This will install the required dependencies ithout having to do it manually if we would have used dpkg.  
+This will install the required dependencies without having to do it manually if we would have used dpkg.  
 Note:  There will be a 'warning note' at the end of the installation as apt is complaining about doing a forced Deb package install - this is informational and can be ignored.
 
 Now enable and start the RealVNC service:
