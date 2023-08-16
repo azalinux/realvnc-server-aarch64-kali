@@ -9,7 +9,7 @@ IMPORTANT INFO::
 
 With the latest 2023.x Kali OS ARM64 images, the official .deb RealVNC package can now be installed relatively easily comparing to the previous years.  There are steps that will be needed before installing the Deb package which will be listed below.  So make sure you are running the latest Kali ARM64 image for the Raspberry PI 4 before attempting to install.
 
-I've included the offical RealVNC Server Deb package for the Raspberry Pi in the repository for ease of use but you can download the file direct from RealVNC if you wish.  There are no speical setup scripts or altered Deb package needed anymore so this will purely be a text instructional setup.
+I've included the offical RealVNC Server Deb package for the Raspberry Pi in the repository for ease of use but you can download the file direct from RealVNC if you wish.  There are no special setup scripts or altered Deb package needed anymore so this will purely be a text instructional setup.
 
 
 INSTALLATION::
