@@ -3,7 +3,7 @@ RealVNC Server Install Setup for Kali ARM64/AARCH64 Raspberry Pi 4
 
 This repository is for installing RealVNC Server ARM64 edition on Kali version 2023.x (and above) ARM64 (aarch64) for your Raspberry Pi device. Has been tested using a Pi4 with 8gb RAM.
 
-RealVNC Server Version: 7.9.0
+RealVNC Server Version: 7.10.0
 
 IMPORTANT INFO::
 
@@ -29,7 +29,7 @@ Then you can now clone this GIT repo and install the DEB package with this modif
 ```
 $ git clone https://github.com/azalinux/realvnc-server-aarch64-kali.git
 $ cd realvnc-server-aarch64-kali
-$ sudo apt -f install ./VNC-Server-7.9.0-Linux-ARM64.deb
+$ sudo apt -f install ./VNC-Server-7.10.0-Linux-ARM64.deb
 ```
 
 This will install the required dependencies without having to do it manually if we would have used dpkg.  
